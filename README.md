@@ -67,6 +67,10 @@ Here are some ideas to get you started:
  
 ## *9. 지도교수, 선배, 친구, 및 산업체 멘토 의견(Merged from Pull Request)* 
 ---  
+  * 2021년 데이터통신 우수수강생: - [<img src = "https://img.shields.io/badge/-ReactJs-lightblue?logo=react&logoColor=white"/>]
+ [<img src = "https://img.shields.io/badge/-Python-black?logo=python&logoColor=green"/>]
+ [<img src = "https://img.shields.io/badge/-Java-red?logo=java&logoColor=white"/>]
+   by 이영석 교수 20210711 
   * 2020년 SW창의대회 참가 및 우수상
   * *동아리 친구*
       + 동아리 활동에 적극적입니다.: 4학년 친구 누구누구
